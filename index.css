@@ -1,0 +1,21 @@
+.cat{
+  border: 1px solid grey;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px black;
+  padding: 20px;
+  margin: 10px;
+  max-width: auto;
+}
+.search-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.sort-buttons {
+  margin-left: 10px;
+}
+
+.sort-buttons button {
+  margin-left: 5px;
+}
